@@ -32,7 +32,7 @@ body{
         overflow: hidden;
         text-indent: -999px;
         background-repeat: no-repeat;
-        background-image: url(/build/images/gulp.png);
+        background-image: url(/build/images/logo.png);
         background-position: center;
         background-size: 64px;
         display: block;
@@ -48,6 +48,8 @@ body{
             display: inline-block;
             text-indent: -999px;
             overflow: hidden;
+            width: 32px;
+            height: 32px;
           }
         }
       }
