@@ -6,6 +6,9 @@
   "repository": "https://github.com/colorwalf/gulp-sass.git",
   "author": "Jeff Liu <jeff@cct95.com>",
   "license": "MIT",
+  "devDependencies":  {
+    "bootstrap": "4.3.1"
+  },
   "dependencies": {
     "babel-core": "^6.7.7",
     "babel-loader": "^6.2.4",
@@ -26,7 +29,8 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
-    "gulp.spritesmith": "^6.9.0"
+    "gulp.spritesmith": "^6.9.0",
+    "yarn": "^1.17.3"
   },
   "babel": {
     "plugins": [
